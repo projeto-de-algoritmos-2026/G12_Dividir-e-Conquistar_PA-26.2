@@ -1,0 +1,1612 @@
+[
+  {
+    "title": "Garota de Ipanema",
+    "artist": "Tom Jobim",
+    "genre": "MPB"
+  },
+  {
+    "title": "Águas de Março",
+    "artist": "Elis Regina",
+    "genre": "MPB"
+  },
+  {
+    "title": "Construção",
+    "artist": "Chico Buarque",
+    "genre": "MPB"
+  },
+  {
+    "title": "Sampa",
+    "artist": "Caetano Veloso",
+    "genre": "MPB"
+  },
+  {
+    "title": "Como Nossos Pais",
+    "artist": "Elis Regina",
+    "genre": "MPB"
+  },
+  {
+    "title": "Aquarela",
+    "artist": "Toquinho",
+    "genre": "MPB"
+  },
+  {
+    "title": "Chega de Saudade",
+    "artist": "João Gilberto",
+    "genre": "MPB"
+  },
+  {
+    "title": "O Bêbado e a Equilibrista",
+    "artist": "Elis Regina",
+    "genre": "MPB"
+  },
+  {
+    "title": "Leãozinho",
+    "artist": "Caetano Veloso",
+    "genre": "MPB"
+  },
+  {
+    "title": "Maria, Maria",
+    "artist": "Milton Nascimento",
+    "genre": "MPB"
+  },
+  {
+    "title": "Drão",
+    "artist": "Gilberto Gil",
+    "genre": "MPB"
+  },
+  {
+    "title": "Velha Infância",
+    "artist": "Tribalistas",
+    "genre": "MPB"
+  },
+  {
+    "title": "Mas Que Nada",
+    "artist": "Jorge Ben Jor",
+    "genre": "MPB"
+  },
+  {
+    "title": "País Tropical",
+    "artist": "Jorge Ben Jor",
+    "genre": "MPB"
+  },
+  {
+    "title": "Oceano",
+    "artist": "Djavan",
+    "genre": "MPB"
+  },
+  {
+    "title": "Cálice",
+    "artist": "Chico Buarque",
+    "genre": "MPB"
+  },
+  {
+    "title": "Andar com Fé",
+    "artist": "Gilberto Gil",
+    "genre": "MPB"
+  },
+  {
+    "title": "Você é Linda",
+    "artist": "Caetano Veloso",
+    "genre": "MPB"
+  },
+  {
+    "title": "Travessia",
+    "artist": "Milton Nascimento",
+    "genre": "MPB"
+  },
+  {
+    "title": "Eu Sei Que Vou Te Amar",
+    "artist": "Tom Jobim",
+    "genre": "MPB"
+  },
+  {
+    "title": "Ainda Bem",
+    "artist": "Marisa Monte",
+    "genre": "MPB"
+  },
+  {
+    "title": "Flor de Lis",
+    "artist": "Djavan",
+    "genre": "MPB"
+  },
+  {
+    "title": "A Banda",
+    "artist": "Chico Buarque",
+    "genre": "MPB"
+  },
+  {
+    "title": "Roda Viva",
+    "artist": "Chico Buarque",
+    "genre": "MPB"
+  },
+  {
+    "title": "Alegria, Alegria",
+    "artist": "Caetano Veloso",
+    "genre": "MPB"
+  },
+  {
+    "title": "Canção da América",
+    "artist": "Milton Nascimento",
+    "genre": "MPB"
+  },
+  {
+    "title": "Desafinado",
+    "artist": "João Gilberto",
+    "genre": "MPB"
+  },
+  {
+    "title": "Já Sei Namorar",
+    "artist": "Tribalistas",
+    "genre": "MPB"
+  },
+  {
+    "title": "Amor I Love You",
+    "artist": "Marisa Monte",
+    "genre": "MPB"
+  },
+  {
+    "title": "Pétala",
+    "artist": "Djavan",
+    "genre": "MPB"
+  },
+  {
+    "title": "Sina",
+    "artist": "Djavan",
+    "genre": "MPB"
+  },
+  {
+    "title": "Taj Mahal",
+    "artist": "Jorge Ben Jor",
+    "genre": "MPB"
+  },
+  {
+    "title": "Expresso 2222",
+    "artist": "Gilberto Gil",
+    "genre": "MPB"
+  },
+  {
+    "title": "Toda Menina Baiana",
+    "artist": "Gilberto Gil",
+    "genre": "MPB"
+  },
+  {
+    "title": "Oração ao Tempo",
+    "artist": "Caetano Veloso",
+    "genre": "MPB"
+  },
+  {
+    "title": "O Que Será (À Flor da Pele)",
+    "artist": "Chico Buarque",
+    "genre": "MPB"
+  },
+  {
+    "title": "Wave",
+    "artist": "Tom Jobim",
+    "genre": "MPB"
+  },
+  {
+    "title": "Tarde em Itapoã",
+    "artist": "Vinicius de Moraes",
+    "genre": "MPB"
+  },
+  {
+    "title": "Força Estranha",
+    "artist": "Gal Costa",
+    "genre": "MPB"
+  },
+  {
+    "title": "Meu Bem, Meu Mal",
+    "artist": "Gal Costa",
+    "genre": "MPB"
+  },
+  {
+    "title": "Trem das Onze",
+    "artist": "Adoniran Barbosa",
+    "genre": "MPB"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "genre": "Rock"
+  },
+  {
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "genre": "Rock"
+  },
+  {
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "genre": "Rock"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "genre": "Rock"
+  },
+  {
+    "title": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
+    "genre": "Rock"
+  },
+  {
+    "title": "Tempo Perdido",
+    "artist": "Legião Urbana",
+    "genre": "Rock"
+  },
+  {
+    "title": "Back in Black",
+    "artist": "AC/DC",
+    "genre": "Rock"
+  },
+  {
+    "title": "Hey Jude",
+    "artist": "The Beatles",
+    "genre": "Rock"
+  },
+  {
+    "title": "Comfortably Numb",
+    "artist": "Pink Floyd",
+    "genre": "Rock"
+  },
+  {
+    "title": "Eduardo e Mônica",
+    "artist": "Legião Urbana",
+    "genre": "Rock"
+  },
+  {
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "genre": "Rock"
+  },
+  {
+    "title": "Creep",
+    "artist": "Radiohead",
+    "genre": "Rock"
+  },
+  {
+    "title": "Exagerado",
+    "artist": "Cazuza",
+    "genre": "Rock"
+  },
+  {
+    "title": "Nothing Else Matters",
+    "artist": "Metallica",
+    "genre": "Rock"
+  },
+  {
+    "title": "Pais e Filhos",
+    "artist": "Legião Urbana",
+    "genre": "Rock"
+  },
+  {
+    "title": "Under the Bridge",
+    "artist": "Red Hot Chili Peppers",
+    "genre": "Rock"
+  },
+  {
+    "title": "Lanterna dos Afogados",
+    "artist": "Os Paralamas do Sucesso",
+    "genre": "Rock"
+  },
+  {
+    "title": "Mr. Brightside",
+    "artist": "The Killers",
+    "genre": "Rock"
+  },
+  {
+    "title": "Seven Nation Army",
+    "artist": "The White Stripes",
+    "genre": "Rock"
+  },
+  {
+    "title": "Paint It Black",
+    "artist": "The Rolling Stones",
+    "genre": "Rock"
+  },
+  {
+    "title": "Epitáfio",
+    "artist": "Titãs",
+    "genre": "Rock"
+  },
+  {
+    "title": "Anna Júlia",
+    "artist": "Los Hermanos",
+    "genre": "Rock"
+  },
+  {
+    "title": "Don't Stop Me Now",
+    "artist": "Queen",
+    "genre": "Rock"
+  },
+  {
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "genre": "Rock"
+  },
+  {
+    "title": "Faroeste Caboclo",
+    "artist": "Legião Urbana",
+    "genre": "Rock"
+  },
+  {
+    "title": "Do I Wanna Know?",
+    "artist": "Arctic Monkeys",
+    "genre": "Rock"
+  },
+  {
+    "title": "Pro Dia Nascer Feliz",
+    "artist": "Barão Vermelho",
+    "genre": "Rock"
+  },
+  {
+    "title": "Come as You Are",
+    "artist": "Nirvana",
+    "genre": "Rock"
+  },
+  {
+    "title": "November Rain",
+    "artist": "Guns N' Roses",
+    "genre": "Rock"
+  },
+  {
+    "title": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "genre": "Rock"
+  },
+  {
+    "title": "Highway to Hell",
+    "artist": "AC/DC",
+    "genre": "Rock"
+  },
+  {
+    "title": "Ideologia",
+    "artist": "Cazuza",
+    "genre": "Rock"
+  },
+  {
+    "title": "Come Together",
+    "artist": "The Beatles",
+    "genre": "Rock"
+  },
+  {
+    "title": "Livin' on a Prayer",
+    "artist": "Bon Jovi",
+    "genre": "Rock"
+  },
+  {
+    "title": "Californication",
+    "artist": "Red Hot Chili Peppers",
+    "genre": "Rock"
+  },
+  {
+    "title": "Enter Sandman",
+    "artist": "Metallica",
+    "genre": "Rock"
+  },
+  {
+    "title": "(I Can't Get No) Satisfaction",
+    "artist": "The Rolling Stones",
+    "genre": "Rock"
+  },
+  {
+    "title": "Que País É Este",
+    "artist": "Legião Urbana",
+    "genre": "Rock"
+  },
+  {
+    "title": "Meu Erro",
+    "artist": "Os Paralamas do Sucesso",
+    "genre": "Rock"
+  },
+  {
+    "title": "Óculos",
+    "artist": "Os Paralamas do Sucesso",
+    "genre": "Rock"
+  },
+  {
+    "title": "Primeiros Erros (Chove)",
+    "artist": "Capital Inicial",
+    "genre": "Rock"
+  },
+  {
+    "title": "Sonífera Ilha",
+    "artist": "Titãs",
+    "genre": "Rock"
+  },
+  {
+    "title": "Toda Forma de Amor",
+    "artist": "Lulu Santos",
+    "genre": "Rock"
+  },
+  {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "genre": "Pop"
+  },
+  {
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "genre": "Pop"
+  },
+  {
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "genre": "Pop"
+  },
+  {
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "genre": "Pop"
+  },
+  {
+    "title": "Bad Romance",
+    "artist": "Lady Gaga",
+    "genre": "Pop"
+  },
+  {
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
+    "title": "Like a Prayer",
+    "artist": "Madonna",
+    "genre": "Pop"
+  },
+  {
+    "title": "Umbrella",
+    "artist": "Rihanna",
+    "genre": "Pop"
+  },
+  {
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson",
+    "genre": "Pop"
+  },
+  {
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "genre": "Pop"
+  },
+  {
+    "title": "...Baby One More Time",
+    "artist": "Britney Spears",
+    "genre": "Pop"
+  },
+  {
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "genre": "Pop"
+  },
+  {
+    "title": "Halo",
+    "artist": "Beyoncé",
+    "genre": "Pop"
+  },
+  {
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "genre": "Pop"
+  },
+  {
+    "title": "Poker Face",
+    "artist": "Lady Gaga",
+    "genre": "Pop"
+  },
+  {
+    "title": "Anti-Hero",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
+    "title": "bad guy",
+    "artist": "Billie Eilish",
+    "genre": "Pop"
+  },
+  {
+    "title": "As It Was",
+    "artist": "Harry Styles",
+    "genre": "Pop"
+  },
+  {
+    "title": "Envolver",
+    "artist": "Anitta",
+    "genre": "Pop"
+  },
+  {
+    "title": "Toxic",
+    "artist": "Britney Spears",
+    "genre": "Pop"
+  },
+  {
+    "title": "Firework",
+    "artist": "Katy Perry",
+    "genre": "Pop"
+  },
+  {
+    "title": "Dancing Queen",
+    "artist": "ABBA",
+    "genre": "Pop"
+  },
+  {
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "genre": "Pop"
+  },
+  {
+    "title": "Shallow",
+    "artist": "Lady Gaga",
+    "genre": "Pop"
+  },
+  {
+    "title": "Hello",
+    "artist": "Adele",
+    "genre": "Pop"
+  },
+  {
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
+    "title": "Love Story",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
+    "title": "Diamonds",
+    "artist": "Rihanna",
+    "genre": "Pop"
+  },
+  {
+    "title": "Single Ladies (Put a Ring on It)",
+    "artist": "Beyoncé",
+    "genre": "Pop"
+  },
+  {
+    "title": "Don't Start Now",
+    "artist": "Dua Lipa",
+    "genre": "Pop"
+  },
+  {
+    "title": "drivers license",
+    "artist": "Olivia Rodrigo",
+    "genre": "Pop"
+  },
+  {
+    "title": "Flowers",
+    "artist": "Miley Cyrus",
+    "genre": "Pop"
+  },
+  {
+    "title": "Watermelon Sugar",
+    "artist": "Harry Styles",
+    "genre": "Pop"
+  },
+  {
+    "title": "Beat It",
+    "artist": "Michael Jackson",
+    "genre": "Pop"
+  },
+  {
+    "title": "Vogue",
+    "artist": "Madonna",
+    "genre": "Pop"
+  },
+  {
+    "title": "Roar",
+    "artist": "Katy Perry",
+    "genre": "Pop"
+  },
+  {
+    "title": "Sorry",
+    "artist": "Justin Bieber",
+    "genre": "Pop"
+  },
+  {
+    "title": "Show das Poderosas",
+    "artist": "Anitta",
+    "genre": "Pop"
+  },
+  {
+    "title": "Happy",
+    "artist": "Pharrell Williams",
+    "genre": "Pop"
+  },
+  {
+    "title": "Call Me Maybe",
+    "artist": "Carly Rae Jepsen",
+    "genre": "Pop"
+  },
+  {
+    "title": "Girls Just Want to Have Fun",
+    "artist": "Cyndi Lauper",
+    "genre": "Pop"
+  },
+  {
+    "title": "Evidências",
+    "artist": "Chitãozinho & Xororó",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Infiel",
+    "artist": "Marília Mendonça",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "É o Amor",
+    "artist": "Zezé Di Camargo & Luciano",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Pense em Mim",
+    "artist": "Leandro & Leonardo",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Ai Se Eu Te Pego",
+    "artist": "Michel Teló",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Cuida Bem Dela",
+    "artist": "Henrique & Juliano",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Fui Fiel",
+    "artist": "Gusttavo Lima",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Supera",
+    "artist": "Marília Mendonça",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Medo Bobo",
+    "artist": "Maiara & Maraisa",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Largado às Traças",
+    "artist": "Zé Neto & Cristiano",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Os Anjos Cantam",
+    "artist": "Jorge & Mateus",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Entre Tapas e Beijos",
+    "artist": "Leandro & Leonardo",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Todo Mundo Vai Sofrer",
+    "artist": "Marília Mendonça",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Fio de Cabelo",
+    "artist": "Chitãozinho & Xororó",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Camaro Amarelo",
+    "artist": "Munhoz & Mariano",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Chalana",
+    "artist": "Almir Sater",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Tocando em Frente",
+    "artist": "Almir Sater",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Esqueça-me Se For Capaz",
+    "artist": "Marília Mendonça & Maiara & Maraisa",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Notificação Preferida",
+    "artist": "Zé Neto & Cristiano",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Amo Noite e Dia",
+    "artist": "Jorge & Mateus",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Boate Azul",
+    "artist": "Bruno & Marrone",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Arranhão",
+    "artist": "Henrique & Juliano",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Recaídas",
+    "artist": "Henrique & Juliano",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "10%",
+    "artist": "Maiara & Maraisa",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Balada",
+    "artist": "Gusttavo Lima",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "No Dia em Que Eu Saí de Casa",
+    "artist": "Zezé Di Camargo & Luciano",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Eu Sei de Cor",
+    "artist": "Marília Mendonça",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Até Você Voltar",
+    "artist": "Henrique & Juliano",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Liberdade Provisória",
+    "artist": "Henrique & Juliano",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Sorte que Cê Beija Bem",
+    "artist": "Maiara & Maraisa",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Logo Eu",
+    "artist": "Jorge & Mateus",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Sosseguei",
+    "artist": "Jorge & Mateus",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Propaganda",
+    "artist": "Jorge & Mateus",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Seu Astral",
+    "artist": "Jorge & Mateus",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Ciumeira",
+    "artist": "Marília Mendonça",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Cobaia",
+    "artist": "Lauana Prado",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Pássaro de Fogo",
+    "artist": "Paula Fernandes",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Telefone Mudo",
+    "artist": "Trio Parada Dura",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Sinônimos",
+    "artist": "Chitãozinho & Xororó",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Página de Amigos",
+    "artist": "Chitãozinho & Xororó",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Saudade da Minha Terra",
+    "artist": "Belmonte & Amaraí",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Dormi na Praça",
+    "artist": "Bruno & Marrone",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Vidro Fumê",
+    "artist": "Bruno & Marrone",
+    "genre": "Sertanejo"
+  },
+  {
+    "title": "Baile de Favela",
+    "artist": "MC João",
+    "genre": "Funk"
+  },
+  {
+    "title": "Bum Bum Tam Tam",
+    "artist": "MC Fioti",
+    "genre": "Funk"
+  },
+  {
+    "title": "Vai Malandra",
+    "artist": "Anitta",
+    "genre": "Funk"
+  },
+  {
+    "title": "Rap da Felicidade",
+    "artist": "Cidinho & Doca",
+    "genre": "Funk"
+  },
+  {
+    "title": "Olha a Explosão",
+    "artist": "MC Kevinho",
+    "genre": "Funk"
+  },
+  {
+    "title": "Glamurosa",
+    "artist": "MC Marcinho",
+    "genre": "Funk"
+  },
+  {
+    "title": "Que Tiro Foi Esse",
+    "artist": "Jojo Maronttinni",
+    "genre": "Funk"
+  },
+  {
+    "title": "Tá Tranquilo, Tá Favorável",
+    "artist": "MC Bin Laden",
+    "genre": "Funk"
+  },
+  {
+    "title": "Cheguei",
+    "artist": "Ludmilla",
+    "genre": "Funk"
+  },
+  {
+    "title": "Envolvimento",
+    "artist": "MC Loma e as Gêmeas Lacração",
+    "genre": "Funk"
+  },
+  {
+    "title": "Rave de Favela",
+    "artist": "MC Lan, Major Lazer & Anitta",
+    "genre": "Funk"
+  },
+  {
+    "title": "Ela É do Tipo",
+    "artist": "MC Kevin o Chris",
+    "genre": "Funk"
+  },
+  {
+    "title": "Sentadão",
+    "artist": "Pedro Sampaio",
+    "genre": "Funk"
+  },
+  {
+    "title": "Rap das Armas",
+    "artist": "Cidinho & Doca",
+    "genre": "Funk"
+  },
+  {
+    "title": "Verdinha",
+    "artist": "Ludmilla",
+    "genre": "Funk"
+  },
+  {
+    "title": "Bumbum Granada",
+    "artist": "MC Zaac & Jerry",
+    "genre": "Funk"
+  },
+  {
+    "title": "Som de Preto",
+    "artist": "Amilcka & Chocolate",
+    "genre": "Funk"
+  },
+  {
+    "title": "Cerol na Mão",
+    "artist": "Bonde do Tigrão",
+    "genre": "Funk"
+  },
+  {
+    "title": "Passinho do Volante (Ah Lelek Lek Lek)",
+    "artist": "MC Federado e os Leleks",
+    "genre": "Funk"
+  },
+  {
+    "title": "Favela Chegou",
+    "artist": "Ludmilla & Anitta",
+    "genre": "Funk"
+  },
+  {
+    "title": "Tudo OK",
+    "artist": "Thiaguinho MT",
+    "genre": "Funk"
+  },
+  {
+    "title": "Dançarina",
+    "artist": "Pedro Sampaio",
+    "genre": "Funk"
+  },
+  {
+    "title": "Vamos pra Gaiola",
+    "artist": "MC Kevin o Chris",
+    "genre": "Funk"
+  },
+  {
+    "title": "Agora Vai Sentar",
+    "artist": "Jerry Smith",
+    "genre": "Funk"
+  },
+  {
+    "title": "Onda Diferente",
+    "artist": "Anitta, Ludmilla & Snoop Dogg",
+    "genre": "Funk"
+  },
+  {
+    "title": "Combatchy",
+    "artist": "Anitta",
+    "genre": "Funk"
+  },
+  {
+    "title": "Ela Só Pensa em Beijar",
+    "artist": "MC Leozinho",
+    "genre": "Funk"
+  },
+  {
+    "title": "Rap do Silva",
+    "artist": "Bob Rum",
+    "genre": "Funk"
+  },
+  {
+    "title": "Princesa",
+    "artist": "MC Marcinho",
+    "genre": "Funk"
+  },
+  {
+    "title": "Rap do Solitário",
+    "artist": "MC Marcinho",
+    "genre": "Funk"
+  },
+  {
+    "title": "Fazer Falta",
+    "artist": "MC Livinho",
+    "genre": "Funk"
+  },
+  {
+    "title": "Hoje Eu Vou Parar na Gaiola",
+    "artist": "MC Livinho",
+    "genre": "Funk"
+  },
+  {
+    "title": "Parado no Bailão",
+    "artist": "MC L da Vinte & MC Gury",
+    "genre": "Funk"
+  },
+  {
+    "title": "Vai Embrazando",
+    "artist": "MC Zaac",
+    "genre": "Funk"
+  },
+  {
+    "title": "Fuleragem",
+    "artist": "MC WM",
+    "genre": "Funk"
+  },
+  {
+    "title": "Tá OK",
+    "artist": "Dennis & MC Kevin o Chris",
+    "genre": "Funk"
+  },
+  {
+    "title": "Ai Preto",
+    "artist": "L7nnon, Biel do Furduncinho & Bianca",
+    "genre": "Funk"
+  },
+  {
+    "title": "Negro Drama",
+    "artist": "Racionais MC's",
+    "genre": "Rap"
+  },
+  {
+    "title": "Diário de um Detento",
+    "artist": "Racionais MC's",
+    "genre": "Rap"
+  },
+  {
+    "title": "Lose Yourself",
+    "artist": "Eminem",
+    "genre": "Rap"
+  },
+  {
+    "title": "AmarElo",
+    "artist": "Emicida",
+    "genre": "Rap"
+  },
+  {
+    "title": "Vida Loka, Pt. II",
+    "artist": "Racionais MC's",
+    "genre": "Rap"
+  },
+  {
+    "title": "Não Existe Amor em SP",
+    "artist": "Criolo",
+    "genre": "Rap"
+  },
+  {
+    "title": "HUMBLE.",
+    "artist": "Kendrick Lamar",
+    "genre": "Rap"
+  },
+  {
+    "title": "Juicy",
+    "artist": "The Notorious B.I.G.",
+    "genre": "Rap"
+  },
+  {
+    "title": "California Love",
+    "artist": "2Pac",
+    "genre": "Rap"
+  },
+  {
+    "title": "Capítulo 4, Versículo 3",
+    "artist": "Racionais MC's",
+    "genre": "Rap"
+  },
+  {
+    "title": "In da Club",
+    "artist": "50 Cent",
+    "genre": "Rap"
+  },
+  {
+    "title": "Rap É Compromisso",
+    "artist": "Sabotage",
+    "genre": "Rap"
+  },
+  {
+    "title": "God's Plan",
+    "artist": "Drake",
+    "genre": "Rap"
+  },
+  {
+    "title": "Still D.R.E.",
+    "artist": "Dr. Dre",
+    "genre": "Rap"
+  },
+  {
+    "title": "Passarinhos",
+    "artist": "Emicida",
+    "genre": "Rap"
+  },
+  {
+    "title": "Jesus Chorou",
+    "artist": "Racionais MC's",
+    "genre": "Rap"
+  },
+  {
+    "title": "The Real Slim Shady",
+    "artist": "Eminem",
+    "genre": "Rap"
+  },
+  {
+    "title": "Alright",
+    "artist": "Kendrick Lamar",
+    "genre": "Rap"
+  },
+  {
+    "title": "Sicko Mode",
+    "artist": "Travis Scott",
+    "genre": "Rap"
+  },
+  {
+    "title": "Hey Ya!",
+    "artist": "OutKast",
+    "genre": "Rap"
+  },
+  {
+    "title": "Sucrilhos",
+    "artist": "Criolo",
+    "genre": "Rap"
+  },
+  {
+    "title": "Levanta e Anda",
+    "artist": "Emicida",
+    "genre": "Rap"
+  },
+  {
+    "title": "Da Ponte Pra Cá",
+    "artist": "Racionais MC's",
+    "genre": "Rap"
+  },
+  {
+    "title": "Stronger",
+    "artist": "Kanye West",
+    "genre": "Rap"
+  },
+  {
+    "title": "Changes",
+    "artist": "2Pac",
+    "genre": "Rap"
+  },
+  {
+    "title": "C.R.E.A.M.",
+    "artist": "Wu-Tang Clan",
+    "genre": "Rap"
+  },
+  {
+    "title": "N.Y. State of Mind",
+    "artist": "Nas",
+    "genre": "Rap"
+  },
+  {
+    "title": "Without Me",
+    "artist": "Eminem",
+    "genre": "Rap"
+  },
+  {
+    "title": "Stan",
+    "artist": "Eminem",
+    "genre": "Rap"
+  },
+  {
+    "title": "Malvadão 3",
+    "artist": "Xamã",
+    "genre": "Rap"
+  },
+  {
+    "title": "Mandume",
+    "artist": "Emicida",
+    "genre": "Rap"
+  },
+  {
+    "title": "Um Bom Lugar",
+    "artist": "Sabotage",
+    "genre": "Rap"
+  },
+  {
+    "title": "Vida Loka, Pt. I",
+    "artist": "Racionais MC's",
+    "genre": "Rap"
+  },
+  {
+    "title": "Mil Faces de um Homem Leal (Marighella)",
+    "artist": "Racionais MC's",
+    "genre": "Rap"
+  },
+  {
+    "title": "DNA.",
+    "artist": "Kendrick Lamar",
+    "genre": "Rap"
+  },
+  {
+    "title": "Gold Digger",
+    "artist": "Kanye West",
+    "genre": "Rap"
+  },
+  {
+    "title": "Hotline Bling",
+    "artist": "Drake",
+    "genre": "Rap"
+  },
+  {
+    "title": "Gin and Juice",
+    "artist": "Snoop Dogg",
+    "genre": "Rap"
+  },
+  {
+    "title": "Ms. Jackson",
+    "artist": "OutKast",
+    "genre": "Rap"
+  },
+  {
+    "title": "Levels",
+    "artist": "Avicii",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Wake Me Up",
+    "artist": "Avicii",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Titanium",
+    "artist": "David Guetta",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Get Lucky",
+    "artist": "Daft Punk",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "One More Time",
+    "artist": "Daft Punk",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Animals",
+    "artist": "Martin Garrix",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Sandstorm",
+    "artist": "Darude",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Lean On",
+    "artist": "Major Lazer",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Summer",
+    "artist": "Calvin Harris",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Don't You Worry Child",
+    "artist": "Swedish House Mafia",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Faded",
+    "artist": "Alan Walker",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Clarity",
+    "artist": "Zedd",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Strobe",
+    "artist": "deadmau5",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Scary Monsters and Nice Sprites",
+    "artist": "Skrillex",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Children",
+    "artist": "Robert Miles",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Blue (Da Ba Dee)",
+    "artist": "Eiffel 65",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Around the World",
+    "artist": "Daft Punk",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Harder, Better, Faster, Stronger",
+    "artist": "Daft Punk",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "The Nights",
+    "artist": "Avicii",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Hey Brother",
+    "artist": "Avicii",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Midnight City",
+    "artist": "M83",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Turn Down for What",
+    "artist": "DJ Snake",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Insomnia",
+    "artist": "Faithless",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "This Is What You Came For",
+    "artist": "Calvin Harris",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Feel So Close",
+    "artist": "Calvin Harris",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Save the World",
+    "artist": "Swedish House Mafia",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Hear Me Now",
+    "artist": "Alok",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Opus",
+    "artist": "Eric Prydz",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Satisfaction",
+    "artist": "Benny Benassi",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Praise You",
+    "artist": "Fatboy Slim",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Right Here, Right Now",
+    "artist": "Fatboy Slim",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Block Rockin' Beats",
+    "artist": "The Chemical Brothers",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Born Slippy .NUXX",
+    "artist": "Underworld",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Breathe",
+    "artist": "The Prodigy",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Firestarter",
+    "artist": "The Prodigy",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Windowlicker",
+    "artist": "Aphex Twin",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Cola",
+    "artist": "CamelPhat",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Ocean Drive",
+    "artist": "Duke Dumont",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Where Are Ü Now",
+    "artist": "Jack Ü",
+    "genre": "Eletrônica"
+  },
+  {
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "genre": "Jazz"
+  },
+  {
+    "title": "So What",
+    "artist": "Miles Davis",
+    "genre": "Jazz"
+  },
+  {
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Fly Me to the Moon",
+    "artist": "Frank Sinatra",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Feeling Good",
+    "artist": "Nina Simone",
+    "genre": "Jazz"
+  },
+  {
+    "title": "My Favorite Things",
+    "artist": "John Coltrane",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Summertime",
+    "artist": "Ella Fitzgerald",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Round Midnight",
+    "artist": "Thelonious Monk",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Blue in Green",
+    "artist": "Miles Davis",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "genre": "Jazz"
+  },
+  {
+    "title": "In a Sentimental Mood",
+    "artist": "Duke Ellington",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Take the \"A\" Train",
+    "artist": "Duke Ellington",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Strange Fruit",
+    "artist": "Billie Holiday",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Cantaloupe Island",
+    "artist": "Herbie Hancock",
+    "genre": "Jazz"
+  },
+  {
+    "title": "The Girl from Ipanema",
+    "artist": "Stan Getz",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Autumn Leaves",
+    "artist": "Cannonball Adderley",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Waltz for Debby",
+    "artist": "Bill Evans",
+    "genre": "Jazz"
+  },
+  {
+    "title": "My Baby Just Cares for Me",
+    "artist": "Nina Simone",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Moanin'",
+    "artist": "Art Blakey",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Freddie Freeloader",
+    "artist": "Miles Davis",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Blue Rondo à la Turk",
+    "artist": "Dave Brubeck",
+    "genre": "Jazz"
+  },
+  {
+    "title": "A Love Supreme, Pt. I – Acknowledgement",
+    "artist": "John Coltrane",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Straight, No Chaser",
+    "artist": "Thelonious Monk",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Dream a Little Dream of Me",
+    "artist": "Ella Fitzgerald",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Cheek to Cheek",
+    "artist": "Ella Fitzgerald",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Song for My Father",
+    "artist": "Horace Silver",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Watermelon Man",
+    "artist": "Herbie Hancock",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Chameleon",
+    "artist": "Herbie Hancock",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Mercy, Mercy, Mercy",
+    "artist": "Cannonball Adderley",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Peace Piece",
+    "artist": "Bill Evans",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Goodbye Pork Pie Hat",
+    "artist": "Charles Mingus",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Better Git It in Your Soul",
+    "artist": "Charles Mingus",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Ornithology",
+    "artist": "Charlie Parker",
+    "genre": "Jazz"
+  },
+  {
+    "title": "A Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Corcovado",
+    "artist": "Stan Getz",
+    "genre": "Jazz"
+  },
+  {
+    "title": "St. Thomas",
+    "artist": "Sonny Rollins",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Spain",
+    "artist": "Chick Corea",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Birdland",
+    "artist": "Weather Report",
+    "genre": "Jazz"
+  }
+]

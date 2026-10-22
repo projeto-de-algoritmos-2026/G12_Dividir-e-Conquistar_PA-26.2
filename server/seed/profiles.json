@@ -1,0 +1,2702 @@
+[
+  {
+    "nickname": "bossa_nova",
+    "ranking": [
+      {
+        "title": "Construção",
+        "artist": "Chico Buarque"
+      },
+      {
+        "title": "Sampa",
+        "artist": "Caetano Veloso"
+      },
+      {
+        "title": "Velha Infância",
+        "artist": "Tribalistas"
+      },
+      {
+        "title": "Drão",
+        "artist": "Gilberto Gil"
+      },
+      {
+        "title": "Aquarela",
+        "artist": "Toquinho"
+      },
+      {
+        "title": "Águas de Março",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "Garota de Ipanema",
+        "artist": "Tom Jobim"
+      },
+      {
+        "title": "Eu Sei Que Vou Te Amar",
+        "artist": "Tom Jobim"
+      },
+      {
+        "title": "País Tropical",
+        "artist": "Jorge Ben Jor"
+      },
+      {
+        "title": "A Banda",
+        "artist": "Chico Buarque"
+      }
+    ]
+  },
+  {
+    "nickname": "tropicalista",
+    "ranking": [
+      {
+        "title": "Garota de Ipanema",
+        "artist": "Tom Jobim"
+      },
+      {
+        "title": "Chega de Saudade",
+        "artist": "João Gilberto"
+      },
+      {
+        "title": "Evidências",
+        "artist": "Chitãozinho & Xororó"
+      },
+      {
+        "title": "Drão",
+        "artist": "Gilberto Gil"
+      },
+      {
+        "title": "Leãozinho",
+        "artist": "Caetano Veloso"
+      },
+      {
+        "title": "Amor I Love You",
+        "artist": "Marisa Monte"
+      },
+      {
+        "title": "Eu Sei de Cor",
+        "artist": "Marília Mendonça"
+      },
+      {
+        "title": "Desafinado",
+        "artist": "João Gilberto"
+      },
+      {
+        "title": "Travessia",
+        "artist": "Milton Nascimento"
+      },
+      {
+        "title": "A Banda",
+        "artist": "Chico Buarque"
+      }
+    ]
+  },
+  {
+    "nickname": "ana_mpb",
+    "ranking": [
+      {
+        "title": "Sampa",
+        "artist": "Caetano Veloso"
+      },
+      {
+        "title": "Tempo Perdido",
+        "artist": "Legião Urbana"
+      },
+      {
+        "title": "Garota de Ipanema",
+        "artist": "Tom Jobim"
+      },
+      {
+        "title": "Águas de Março",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "País Tropical",
+        "artist": "Jorge Ben Jor"
+      },
+      {
+        "title": "Wonderwall",
+        "artist": "Oasis"
+      },
+      {
+        "title": "Let It Be",
+        "artist": "The Beatles"
+      },
+      {
+        "title": "Flor de Lis",
+        "artist": "Djavan"
+      },
+      {
+        "title": "Alegria, Alegria",
+        "artist": "Caetano Veloso"
+      },
+      {
+        "title": "Wave",
+        "artist": "Tom Jobim"
+      }
+    ]
+  },
+  {
+    "nickname": "violao_e_voz",
+    "ranking": [
+      {
+        "title": "Drão",
+        "artist": "Gilberto Gil"
+      },
+      {
+        "title": "Rap da Felicidade",
+        "artist": "Cidinho & Doca"
+      },
+      {
+        "title": "O Bêbado e a Equilibrista",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "Águas de Março",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "Som de Preto",
+        "artist": "Amilcka & Chocolate"
+      },
+      {
+        "title": "Maria, Maria",
+        "artist": "Milton Nascimento"
+      },
+      {
+        "title": "A Banda",
+        "artist": "Chico Buarque"
+      },
+      {
+        "title": "Expresso 2222",
+        "artist": "Gilberto Gil"
+      },
+      {
+        "title": "Meu Bem, Meu Mal",
+        "artist": "Gal Costa"
+      },
+      {
+        "title": "Força Estranha",
+        "artist": "Gal Costa"
+      }
+    ]
+  },
+  {
+    "nickname": "saudade_br",
+    "ranking": [
+      {
+        "title": "Águas de Março",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "Aquarela",
+        "artist": "Toquinho"
+      },
+      {
+        "title": "Sampa",
+        "artist": "Caetano Veloso"
+      },
+      {
+        "title": "Como Nossos Pais",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "O Bêbado e a Equilibrista",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "Garota de Ipanema",
+        "artist": "Tom Jobim"
+      },
+      {
+        "title": "Flor de Lis",
+        "artist": "Djavan"
+      },
+      {
+        "title": "Hey Brother",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Andar com Fé",
+        "artist": "Gilberto Gil"
+      },
+      {
+        "title": "Taj Mahal",
+        "artist": "Jorge Ben Jor"
+      }
+    ]
+  },
+  {
+    "nickname": "cantora_de_radio",
+    "ranking": [
+      {
+        "title": "Como Nossos Pais",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "Águas de Março",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "Sampa",
+        "artist": "Caetano Veloso"
+      },
+      {
+        "title": "Garota de Ipanema",
+        "artist": "Tom Jobim"
+      },
+      {
+        "title": "O Bêbado e a Equilibrista",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "Drão",
+        "artist": "Gilberto Gil"
+      },
+      {
+        "title": "Construção",
+        "artist": "Chico Buarque"
+      },
+      {
+        "title": "A Banda",
+        "artist": "Chico Buarque"
+      },
+      {
+        "title": "Canção da América",
+        "artist": "Milton Nascimento"
+      },
+      {
+        "title": "Desafinado",
+        "artist": "João Gilberto"
+      }
+    ]
+  },
+  {
+    "nickname": "joao_da_bossa",
+    "ranking": [
+      {
+        "title": "Águas de Março",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "Sampa",
+        "artist": "Caetano Veloso"
+      },
+      {
+        "title": "Sentadão",
+        "artist": "Pedro Sampaio"
+      },
+      {
+        "title": "Garota de Ipanema",
+        "artist": "Tom Jobim"
+      },
+      {
+        "title": "Maria, Maria",
+        "artist": "Milton Nascimento"
+      },
+      {
+        "title": "Passinho do Volante (Ah Lelek Lek Lek)",
+        "artist": "MC Federado e os Leleks"
+      },
+      {
+        "title": "Construção",
+        "artist": "Chico Buarque"
+      },
+      {
+        "title": "A Banda",
+        "artist": "Chico Buarque"
+      },
+      {
+        "title": "Favela Chegou",
+        "artist": "Ludmilla & Anitta"
+      },
+      {
+        "title": "Andar com Fé",
+        "artist": "Gilberto Gil"
+      }
+    ]
+  },
+  {
+    "nickname": "rockeira",
+    "ranking": [
+      {
+        "title": "Hotel California",
+        "artist": "Eagles"
+      },
+      {
+        "title": "Tempo Perdido",
+        "artist": "Legião Urbana"
+      },
+      {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "title": "Comfortably Numb",
+        "artist": "Pink Floyd"
+      },
+      {
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana"
+      },
+      {
+        "title": "Mr. Brightside",
+        "artist": "The Killers"
+      },
+      {
+        "title": "Pro Dia Nascer Feliz",
+        "artist": "Barão Vermelho"
+      },
+      {
+        "title": "Meu Erro",
+        "artist": "Os Paralamas do Sucesso"
+      },
+      {
+        "title": "Vogue",
+        "artist": "Madonna"
+      }
+    ]
+  },
+  {
+    "nickname": "guitarra_veia",
+    "ranking": [
+      {
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana"
+      },
+      {
+        "title": "Lose Yourself",
+        "artist": "Eminem"
+      },
+      {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen"
+      },
+      {
+        "title": "Hotel California",
+        "artist": "Eagles"
+      },
+      {
+        "title": "Wonderwall",
+        "artist": "Oasis"
+      },
+      {
+        "title": "Paint It Black",
+        "artist": "The Rolling Stones"
+      },
+      {
+        "title": "Nothing Else Matters",
+        "artist": "Metallica"
+      },
+      {
+        "title": "Mr. Brightside",
+        "artist": "The Killers"
+      },
+      {
+        "title": "Exagerado",
+        "artist": "Cazuza"
+      },
+      {
+        "title": "God's Plan",
+        "artist": "Drake"
+      }
+    ]
+  },
+  {
+    "nickname": "headbanger",
+    "ranking": [
+      {
+        "title": "Hotel California",
+        "artist": "Eagles"
+      },
+      {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin"
+      },
+      {
+        "title": "Diário de um Detento",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Paint It Black",
+        "artist": "The Rolling Stones"
+      },
+      {
+        "title": "Pais e Filhos",
+        "artist": "Legião Urbana"
+      },
+      {
+        "title": "AmarElo",
+        "artist": "Emicida"
+      },
+      {
+        "title": "Lanterna dos Afogados",
+        "artist": "Os Paralamas do Sucesso"
+      },
+      {
+        "title": "Wonderwall",
+        "artist": "Oasis"
+      },
+      {
+        "title": "Come as You Are",
+        "artist": "Nirvana"
+      },
+      {
+        "title": "Gold Digger",
+        "artist": "Kanye West"
+      }
+    ]
+  },
+  {
+    "nickname": "riff_master",
+    "ranking": [
+      {
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana"
+      },
+      {
+        "title": "Nothing Else Matters",
+        "artist": "Metallica"
+      },
+      {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson"
+      },
+      {
+        "title": "Pais e Filhos",
+        "artist": "Legião Urbana"
+      },
+      {
+        "title": "Back in Black",
+        "artist": "AC/DC"
+      },
+      {
+        "title": "(I Can't Get No) Satisfaction",
+        "artist": "The Rolling Stones"
+      },
+      {
+        "title": "Epitáfio",
+        "artist": "Titãs"
+      },
+      {
+        "title": "Livin' on a Prayer",
+        "artist": "Bon Jovi"
+      },
+      {
+        "title": "Meu Erro",
+        "artist": "Os Paralamas do Sucesso"
+      },
+      {
+        "title": "Enter Sandman",
+        "artist": "Metallica"
+      }
+    ]
+  },
+  {
+    "nickname": "legiao_fan",
+    "ranking": [
+      {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen"
+      },
+      {
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses"
+      },
+      {
+        "title": "Back in Black",
+        "artist": "AC/DC"
+      },
+      {
+        "title": "Tempo Perdido",
+        "artist": "Legião Urbana"
+      },
+      {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin"
+      },
+      {
+        "title": "Hotel California",
+        "artist": "Eagles"
+      },
+      {
+        "title": "Comfortably Numb",
+        "artist": "Pink Floyd"
+      },
+      {
+        "title": "Lanterna dos Afogados",
+        "artist": "Os Paralamas do Sucesso"
+      },
+      {
+        "title": "Mr. Brightside",
+        "artist": "The Killers"
+      },
+      {
+        "title": "Meu Erro",
+        "artist": "Os Paralamas do Sucesso"
+      }
+    ]
+  },
+  {
+    "nickname": "vinil_classico",
+    "ranking": [
+      {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin"
+      },
+      {
+        "title": "Pais e Filhos",
+        "artist": "Legião Urbana"
+      },
+      {
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana"
+      },
+      {
+        "title": "AmarElo",
+        "artist": "Emicida"
+      },
+      {
+        "title": "Eduardo e Mônica",
+        "artist": "Legião Urbana"
+      },
+      {
+        "title": "Pro Dia Nascer Feliz",
+        "artist": "Barão Vermelho"
+      },
+      {
+        "title": "Back in Black",
+        "artist": "AC/DC"
+      },
+      {
+        "title": "Without Me",
+        "artist": "Eminem"
+      },
+      {
+        "title": "Óculos",
+        "artist": "Os Paralamas do Sucesso"
+      },
+      {
+        "title": "Primeiros Erros (Chove)",
+        "artist": "Capital Inicial"
+      }
+    ]
+  },
+  {
+    "nickname": "pedal_fuzz",
+    "ranking": [
+      {
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana"
+      },
+      {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen"
+      },
+      {
+        "title": "Creep",
+        "artist": "Radiohead"
+      },
+      {
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses"
+      },
+      {
+        "title": "Hotel California",
+        "artist": "Eagles"
+      },
+      {
+        "title": "Mr. Brightside",
+        "artist": "The Killers"
+      },
+      {
+        "title": "Shallow",
+        "artist": "Lady Gaga"
+      },
+      {
+        "title": "Don't Start Now",
+        "artist": "Dua Lipa"
+      },
+      {
+        "title": "Wish You Were Here",
+        "artist": "Pink Floyd"
+      },
+      {
+        "title": "Enter Sandman",
+        "artist": "Metallica"
+      }
+    ]
+  },
+  {
+    "nickname": "pop_star",
+    "ranking": [
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "title": "As It Was",
+        "artist": "Harry Styles"
+      },
+      {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd"
+      },
+      {
+        "title": "Shallow",
+        "artist": "Lady Gaga"
+      },
+      {
+        "title": "Like a Prayer",
+        "artist": "Madonna"
+      },
+      {
+        "title": "Poker Face",
+        "artist": "Lady Gaga"
+      },
+      {
+        "title": "...Baby One More Time",
+        "artist": "Britney Spears"
+      },
+      {
+        "title": "Perfect",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "title": "Girls Just Want to Have Fun",
+        "artist": "Cyndi Lauper"
+      },
+      {
+        "title": "Don't Start Now",
+        "artist": "Dua Lipa"
+      }
+    ]
+  },
+  {
+    "nickname": "diva_pop",
+    "ranking": [
+      {
+        "title": "Como Nossos Pais",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "Shake It Off",
+        "artist": "Taylor Swift"
+      },
+      {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson"
+      },
+      {
+        "title": "Rolling in the Deep",
+        "artist": "Adele"
+      },
+      {
+        "title": "Bad Romance",
+        "artist": "Lady Gaga"
+      },
+      {
+        "title": "Anti-Hero",
+        "artist": "Taylor Swift"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa"
+      },
+      {
+        "title": "Halo",
+        "artist": "Beyoncé"
+      },
+      {
+        "title": "Shallow",
+        "artist": "Lady Gaga"
+      },
+      {
+        "title": "Sorry",
+        "artist": "Justin Bieber"
+      }
+    ]
+  },
+  {
+    "nickname": "hit_parade",
+    "ranking": [
+      {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd"
+      },
+      {
+        "title": "Rolling in the Deep",
+        "artist": "Adele"
+      },
+      {
+        "title": "Like a Prayer",
+        "artist": "Madonna"
+      },
+      {
+        "title": "Someone Like You",
+        "artist": "Adele"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "title": "Umbrella",
+        "artist": "Rihanna"
+      },
+      {
+        "title": "Anti-Hero",
+        "artist": "Taylor Swift"
+      },
+      {
+        "title": "Beat It",
+        "artist": "Michael Jackson"
+      },
+      {
+        "title": "Flowers",
+        "artist": "Miley Cyrus"
+      },
+      {
+        "title": "Girls Just Want to Have Fun",
+        "artist": "Cyndi Lauper"
+      }
+    ]
+  },
+  {
+    "nickname": "popzinho",
+    "ranking": [
+      {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson"
+      },
+      {
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson"
+      },
+      {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "title": "Poker Face",
+        "artist": "Lady Gaga"
+      },
+      {
+        "title": "Shake It Off",
+        "artist": "Taylor Swift"
+      },
+      {
+        "title": "Umbrella",
+        "artist": "Rihanna"
+      },
+      {
+        "title": "Single Ladies (Put a Ring on It)",
+        "artist": "Beyoncé"
+      },
+      {
+        "title": "Vogue",
+        "artist": "Madonna"
+      }
+    ]
+  },
+  {
+    "nickname": "refrao_chiclete",
+    "ranking": [
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "title": "Rolling in the Deep",
+        "artist": "Adele"
+      },
+      {
+        "title": "Thriller",
+        "artist": "Michael Jackson"
+      },
+      {
+        "title": "Anti-Hero",
+        "artist": "Taylor Swift"
+      },
+      {
+        "title": "Poker Face",
+        "artist": "Lady Gaga"
+      },
+      {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson"
+      },
+      {
+        "title": "Bad Romance",
+        "artist": "Lady Gaga"
+      },
+      {
+        "title": "Blank Space",
+        "artist": "Taylor Swift"
+      },
+      {
+        "title": "Perfect",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "title": "Don't Start Now",
+        "artist": "Dua Lipa"
+      }
+    ]
+  },
+  {
+    "nickname": "swiftie_br",
+    "ranking": [
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "title": "Rolling in the Deep",
+        "artist": "Adele"
+      },
+      {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson"
+      },
+      {
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson"
+      },
+      {
+        "title": "Like a Prayer",
+        "artist": "Madonna"
+      },
+      {
+        "title": "Envolver",
+        "artist": "Anitta"
+      },
+      {
+        "title": "Diamonds",
+        "artist": "Rihanna"
+      },
+      {
+        "title": "bad guy",
+        "artist": "Billie Eilish"
+      },
+      {
+        "title": "Vogue",
+        "artist": "Madonna"
+      },
+      {
+        "title": "Happy",
+        "artist": "Pharrell Williams"
+      }
+    ]
+  },
+  {
+    "nickname": "danca_pop",
+    "ranking": [
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "title": "Bad Romance",
+        "artist": "Lady Gaga"
+      },
+      {
+        "title": "Thriller",
+        "artist": "Michael Jackson"
+      },
+      {
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson"
+      },
+      {
+        "title": "Someone Like You",
+        "artist": "Adele"
+      },
+      {
+        "title": "Glamurosa",
+        "artist": "MC Marcinho"
+      },
+      {
+        "title": "Halo",
+        "artist": "Beyoncé"
+      },
+      {
+        "title": "Hello",
+        "artist": "Adele"
+      },
+      {
+        "title": "Beat It",
+        "artist": "Michael Jackson"
+      },
+      {
+        "title": "Show das Poderosas",
+        "artist": "Anitta"
+      }
+    ]
+  },
+  {
+    "nickname": "sertanejo_raiz",
+    "ranking": [
+      {
+        "title": "É o Amor",
+        "artist": "Zezé Di Camargo & Luciano"
+      },
+      {
+        "title": "Thriller",
+        "artist": "Michael Jackson"
+      },
+      {
+        "title": "Pense em Mim",
+        "artist": "Leandro & Leonardo"
+      },
+      {
+        "title": "Evidências",
+        "artist": "Chitãozinho & Xororó"
+      },
+      {
+        "title": "Largado às Traças",
+        "artist": "Zé Neto & Cristiano"
+      },
+      {
+        "title": "Fui Fiel",
+        "artist": "Gusttavo Lima"
+      },
+      {
+        "title": "Logo Eu",
+        "artist": "Jorge & Mateus"
+      },
+      {
+        "title": "Amo Noite e Dia",
+        "artist": "Jorge & Mateus"
+      },
+      {
+        "title": "Cobaia",
+        "artist": "Lauana Prado"
+      },
+      {
+        "title": "Vidro Fumê",
+        "artist": "Bruno & Marrone"
+      }
+    ]
+  },
+  {
+    "nickname": "modao",
+    "ranking": [
+      {
+        "title": "Evidências",
+        "artist": "Chitãozinho & Xororó"
+      },
+      {
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana"
+      },
+      {
+        "title": "Tocando em Frente",
+        "artist": "Almir Sater"
+      },
+      {
+        "title": "Medo Bobo",
+        "artist": "Maiara & Maraisa"
+      },
+      {
+        "title": "Tempo Perdido",
+        "artist": "Legião Urbana"
+      },
+      {
+        "title": "Supera",
+        "artist": "Marília Mendonça"
+      },
+      {
+        "title": "Cuida Bem Dela",
+        "artist": "Henrique & Juliano"
+      },
+      {
+        "title": "Fio de Cabelo",
+        "artist": "Chitãozinho & Xororó"
+      },
+      {
+        "title": "Balada",
+        "artist": "Gusttavo Lima"
+      },
+      {
+        "title": "Enter Sandman",
+        "artist": "Metallica"
+      }
+    ]
+  },
+  {
+    "nickname": "viola_caipira",
+    "ranking": [
+      {
+        "title": "...Baby One More Time",
+        "artist": "Britney Spears"
+      },
+      {
+        "title": "Evidências",
+        "artist": "Chitãozinho & Xororó"
+      },
+      {
+        "title": "É o Amor",
+        "artist": "Zezé Di Camargo & Luciano"
+      },
+      {
+        "title": "Largado às Traças",
+        "artist": "Zé Neto & Cristiano"
+      },
+      {
+        "title": "Rolling in the Deep",
+        "artist": "Adele"
+      },
+      {
+        "title": "Cuida Bem Dela",
+        "artist": "Henrique & Juliano"
+      },
+      {
+        "title": "Notificação Preferida",
+        "artist": "Zé Neto & Cristiano"
+      },
+      {
+        "title": "Amo Noite e Dia",
+        "artist": "Jorge & Mateus"
+      },
+      {
+        "title": "Propaganda",
+        "artist": "Jorge & Mateus"
+      },
+      {
+        "title": "Sosseguei",
+        "artist": "Jorge & Mateus"
+      }
+    ]
+  },
+  {
+    "nickname": "sofrencia",
+    "ranking": [
+      {
+        "title": "É o Amor",
+        "artist": "Zezé Di Camargo & Luciano"
+      },
+      {
+        "title": "Os Anjos Cantam",
+        "artist": "Jorge & Mateus"
+      },
+      {
+        "title": "Evidências",
+        "artist": "Chitãozinho & Xororó"
+      },
+      {
+        "title": "Cuida Bem Dela",
+        "artist": "Henrique & Juliano"
+      },
+      {
+        "title": "Infiel",
+        "artist": "Marília Mendonça"
+      },
+      {
+        "title": "Supera",
+        "artist": "Marília Mendonça"
+      },
+      {
+        "title": "Chalana",
+        "artist": "Almir Sater"
+      },
+      {
+        "title": "Sosseguei",
+        "artist": "Jorge & Mateus"
+      },
+      {
+        "title": "Telefone Mudo",
+        "artist": "Trio Parada Dura"
+      },
+      {
+        "title": "Página de Amigos",
+        "artist": "Chitãozinho & Xororó"
+      }
+    ]
+  },
+  {
+    "nickname": "boteco_br",
+    "ranking": [
+      {
+        "title": "Cuida Bem Dela",
+        "artist": "Henrique & Juliano"
+      },
+      {
+        "title": "Medo Bobo",
+        "artist": "Maiara & Maraisa"
+      },
+      {
+        "title": "Ai Se Eu Te Pego",
+        "artist": "Michel Teló"
+      },
+      {
+        "title": "Evidências",
+        "artist": "Chitãozinho & Xororó"
+      },
+      {
+        "title": "Tocando em Frente",
+        "artist": "Almir Sater"
+      },
+      {
+        "title": "Chalana",
+        "artist": "Almir Sater"
+      },
+      {
+        "title": "Notificação Preferida",
+        "artist": "Zé Neto & Cristiano"
+      },
+      {
+        "title": "Largado às Traças",
+        "artist": "Zé Neto & Cristiano"
+      },
+      {
+        "title": "Boate Azul",
+        "artist": "Bruno & Marrone"
+      },
+      {
+        "title": "Página de Amigos",
+        "artist": "Chitãozinho & Xororó"
+      }
+    ]
+  },
+  {
+    "nickname": "caipira_urbano",
+    "ranking": [
+      {
+        "title": "Águas de Março",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "Fui Fiel",
+        "artist": "Gusttavo Lima"
+      },
+      {
+        "title": "Ainda Bem",
+        "artist": "Marisa Monte"
+      },
+      {
+        "title": "Garota de Ipanema",
+        "artist": "Tom Jobim"
+      },
+      {
+        "title": "Todo Mundo Vai Sofrer",
+        "artist": "Marília Mendonça"
+      },
+      {
+        "title": "Medo Bobo",
+        "artist": "Maiara & Maraisa"
+      },
+      {
+        "title": "Boate Azul",
+        "artist": "Bruno & Marrone"
+      },
+      {
+        "title": "Pássaro de Fogo",
+        "artist": "Paula Fernandes"
+      },
+      {
+        "title": "Telefone Mudo",
+        "artist": "Trio Parada Dura"
+      },
+      {
+        "title": "Página de Amigos",
+        "artist": "Chitãozinho & Xororó"
+      }
+    ]
+  },
+  {
+    "nickname": "chapeu_de_couro",
+    "ranking": [
+      {
+        "title": "Ai Se Eu Te Pego",
+        "artist": "Michel Teló"
+      },
+      {
+        "title": "Supera",
+        "artist": "Marília Mendonça"
+      },
+      {
+        "title": "Esqueça-me Se For Capaz",
+        "artist": "Marília Mendonça & Maiara & Maraisa"
+      },
+      {
+        "title": "Evidências",
+        "artist": "Chitãozinho & Xororó"
+      },
+      {
+        "title": "Tempo Perdido",
+        "artist": "Legião Urbana"
+      },
+      {
+        "title": "Back in Black",
+        "artist": "AC/DC"
+      },
+      {
+        "title": "É o Amor",
+        "artist": "Zezé Di Camargo & Luciano"
+      },
+      {
+        "title": "Telefone Mudo",
+        "artist": "Trio Parada Dura"
+      },
+      {
+        "title": "Pássaro de Fogo",
+        "artist": "Paula Fernandes"
+      },
+      {
+        "title": "Eu Sei de Cor",
+        "artist": "Marília Mendonça"
+      }
+    ]
+  },
+  {
+    "nickname": "funkeira",
+    "ranking": [
+      {
+        "title": "Olha a Explosão",
+        "artist": "MC Kevinho"
+      },
+      {
+        "title": "Bumbum Granada",
+        "artist": "MC Zaac & Jerry"
+      },
+      {
+        "title": "Sentadão",
+        "artist": "Pedro Sampaio"
+      },
+      {
+        "title": "Tá Tranquilo, Tá Favorável",
+        "artist": "MC Bin Laden"
+      },
+      {
+        "title": "Baile de Favela",
+        "artist": "MC João"
+      },
+      {
+        "title": "Verdinha",
+        "artist": "Ludmilla"
+      },
+      {
+        "title": "Ela É do Tipo",
+        "artist": "MC Kevin o Chris"
+      },
+      {
+        "title": "Vamos pra Gaiola",
+        "artist": "MC Kevin o Chris"
+      },
+      {
+        "title": "Stan",
+        "artist": "Eminem"
+      },
+      {
+        "title": "Mandume",
+        "artist": "Emicida"
+      }
+    ]
+  },
+  {
+    "nickname": "baile_da_gaiola",
+    "ranking": [
+      {
+        "title": "Baile de Favela",
+        "artist": "MC João"
+      },
+      {
+        "title": "Bum Bum Tam Tam",
+        "artist": "MC Fioti"
+      },
+      {
+        "title": "Que Tiro Foi Esse",
+        "artist": "Jojo Maronttinni"
+      },
+      {
+        "title": "Cheguei",
+        "artist": "Ludmilla"
+      },
+      {
+        "title": "Olha a Explosão",
+        "artist": "MC Kevinho"
+      },
+      {
+        "title": "Rap das Armas",
+        "artist": "Cidinho & Doca"
+      },
+      {
+        "title": "Tudo OK",
+        "artist": "Thiaguinho MT"
+      },
+      {
+        "title": "Favela Chegou",
+        "artist": "Ludmilla & Anitta"
+      },
+      {
+        "title": "Ela É do Tipo",
+        "artist": "MC Kevin o Chris"
+      },
+      {
+        "title": "Onda Diferente",
+        "artist": "Anitta, Ludmilla & Snoop Dogg"
+      }
+    ]
+  },
+  {
+    "nickname": "paredao",
+    "ranking": [
+      {
+        "title": "Rap das Armas",
+        "artist": "Cidinho & Doca"
+      },
+      {
+        "title": "Baile de Favela",
+        "artist": "MC João"
+      },
+      {
+        "title": "Som de Preto",
+        "artist": "Amilcka & Chocolate"
+      },
+      {
+        "title": "Verdinha",
+        "artist": "Ludmilla"
+      },
+      {
+        "title": "Ela Só Pensa em Beijar",
+        "artist": "MC Leozinho"
+      },
+      {
+        "title": "Arranhão",
+        "artist": "Henrique & Juliano"
+      },
+      {
+        "title": "Passinho do Volante (Ah Lelek Lek Lek)",
+        "artist": "MC Federado e os Leleks"
+      },
+      {
+        "title": "10%",
+        "artist": "Maiara & Maraisa"
+      },
+      {
+        "title": "Tudo OK",
+        "artist": "Thiaguinho MT"
+      },
+      {
+        "title": "Combatchy",
+        "artist": "Anitta"
+      }
+    ]
+  },
+  {
+    "nickname": "passinho",
+    "ranking": [
+      {
+        "title": "Rap da Felicidade",
+        "artist": "Cidinho & Doca"
+      },
+      {
+        "title": "Envolvimento",
+        "artist": "MC Loma e as Gêmeas Lacração"
+      },
+      {
+        "title": "Maria, Maria",
+        "artist": "Milton Nascimento"
+      },
+      {
+        "title": "Vai Malandra",
+        "artist": "Anitta"
+      },
+      {
+        "title": "Sentadão",
+        "artist": "Pedro Sampaio"
+      },
+      {
+        "title": "Aquarela",
+        "artist": "Toquinho"
+      },
+      {
+        "title": "Vamos pra Gaiola",
+        "artist": "MC Kevin o Chris"
+      },
+      {
+        "title": "Cerol na Mão",
+        "artist": "Bonde do Tigrão"
+      },
+      {
+        "title": "Fazer Falta",
+        "artist": "MC Livinho"
+      },
+      {
+        "title": "Rap do Silva",
+        "artist": "Bob Rum"
+      }
+    ]
+  },
+  {
+    "nickname": "mc_de_quebrada",
+    "ranking": [
+      {
+        "title": "Que Tiro Foi Esse",
+        "artist": "Jojo Maronttinni"
+      },
+      {
+        "title": "Tá Tranquilo, Tá Favorável",
+        "artist": "MC Bin Laden"
+      },
+      {
+        "title": "Baile de Favela",
+        "artist": "MC João"
+      },
+      {
+        "title": "Ela É do Tipo",
+        "artist": "MC Kevin o Chris"
+      },
+      {
+        "title": "Rave de Favela",
+        "artist": "MC Lan, Major Lazer & Anitta"
+      },
+      {
+        "title": "Sentadão",
+        "artist": "Pedro Sampaio"
+      },
+      {
+        "title": "Turn Down for What",
+        "artist": "DJ Snake"
+      },
+      {
+        "title": "Rap do Solitário",
+        "artist": "MC Marcinho"
+      },
+      {
+        "title": "Onda Diferente",
+        "artist": "Anitta, Ludmilla & Snoop Dogg"
+      },
+      {
+        "title": "Save the World",
+        "artist": "Swedish House Mafia"
+      }
+    ]
+  },
+  {
+    "nickname": "batidao",
+    "ranking": [
+      {
+        "title": "Vai Malandra",
+        "artist": "Anitta"
+      },
+      {
+        "title": "Rave de Favela",
+        "artist": "MC Lan, Major Lazer & Anitta"
+      },
+      {
+        "title": "Olha a Explosão",
+        "artist": "MC Kevinho"
+      },
+      {
+        "title": "Bum Bum Tam Tam",
+        "artist": "MC Fioti"
+      },
+      {
+        "title": "Glamurosa",
+        "artist": "MC Marcinho"
+      },
+      {
+        "title": "Rap do Silva",
+        "artist": "Bob Rum"
+      },
+      {
+        "title": "Cheguei",
+        "artist": "Ludmilla"
+      },
+      {
+        "title": "Vai Embrazando",
+        "artist": "MC Zaac"
+      },
+      {
+        "title": "Parado no Bailão",
+        "artist": "MC L da Vinte & MC Gury"
+      },
+      {
+        "title": "Fazer Falta",
+        "artist": "MC Livinho"
+      }
+    ]
+  },
+  {
+    "nickname": "tamborzao",
+    "ranking": [
+      {
+        "title": "Rap da Felicidade",
+        "artist": "Cidinho & Doca"
+      },
+      {
+        "title": "Bum Bum Tam Tam",
+        "artist": "MC Fioti"
+      },
+      {
+        "title": "Que Tiro Foi Esse",
+        "artist": "Jojo Maronttinni"
+      },
+      {
+        "title": "Vai Malandra",
+        "artist": "Anitta"
+      },
+      {
+        "title": "Rave de Favela",
+        "artist": "MC Lan, Major Lazer & Anitta"
+      },
+      {
+        "title": "É o Amor",
+        "artist": "Zezé Di Camargo & Luciano"
+      },
+      {
+        "title": "Cheguei",
+        "artist": "Ludmilla"
+      },
+      {
+        "title": "Onda Diferente",
+        "artist": "Anitta, Ludmilla & Snoop Dogg"
+      },
+      {
+        "title": "Ela Só Pensa em Beijar",
+        "artist": "MC Leozinho"
+      },
+      {
+        "title": "Logo Eu",
+        "artist": "Jorge & Mateus"
+      }
+    ]
+  },
+  {
+    "nickname": "rimador",
+    "ranking": [
+      {
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses"
+      },
+      {
+        "title": "Negro Drama",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Nothing Else Matters",
+        "artist": "Metallica"
+      },
+      {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen"
+      },
+      {
+        "title": "AmarElo",
+        "artist": "Emicida"
+      },
+      {
+        "title": "California Love",
+        "artist": "2Pac"
+      },
+      {
+        "title": "Capítulo 4, Versículo 3",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Passarinhos",
+        "artist": "Emicida"
+      },
+      {
+        "title": "C.R.E.A.M.",
+        "artist": "Wu-Tang Clan"
+      },
+      {
+        "title": "Gin and Juice",
+        "artist": "Snoop Dogg"
+      }
+    ]
+  },
+  {
+    "nickname": "boombap",
+    "ranking": [
+      {
+        "title": "AmarElo",
+        "artist": "Emicida"
+      },
+      {
+        "title": "Vida Loka, Pt. II",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Passarinhos",
+        "artist": "Emicida"
+      },
+      {
+        "title": "Negro Drama",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Juicy",
+        "artist": "The Notorious B.I.G."
+      },
+      {
+        "title": "Malvadão 3",
+        "artist": "Xamã"
+      },
+      {
+        "title": "Mil Faces de um Homem Leal (Marighella)",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "God's Plan",
+        "artist": "Drake"
+      },
+      {
+        "title": "Hotline Bling",
+        "artist": "Drake"
+      },
+      {
+        "title": "N.Y. State of Mind",
+        "artist": "Nas"
+      }
+    ]
+  },
+  {
+    "nickname": "mc_consciente",
+    "ranking": [
+      {
+        "title": "Evidências",
+        "artist": "Chitãozinho & Xororó"
+      },
+      {
+        "title": "Alright",
+        "artist": "Kendrick Lamar"
+      },
+      {
+        "title": "AmarElo",
+        "artist": "Emicida"
+      },
+      {
+        "title": "Negro Drama",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Still D.R.E.",
+        "artist": "Dr. Dre"
+      },
+      {
+        "title": "Diário de um Detento",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Passarinhos",
+        "artist": "Emicida"
+      },
+      {
+        "title": "Rap É Compromisso",
+        "artist": "Sabotage"
+      },
+      {
+        "title": "Capítulo 4, Versículo 3",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "DNA.",
+        "artist": "Kendrick Lamar"
+      }
+    ]
+  },
+  {
+    "nickname": "beatmaker",
+    "ranking": [
+      {
+        "title": "Cuida Bem Dela",
+        "artist": "Henrique & Juliano"
+      },
+      {
+        "title": "Juicy",
+        "artist": "The Notorious B.I.G."
+      },
+      {
+        "title": "Diário de um Detento",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "AmarElo",
+        "artist": "Emicida"
+      },
+      {
+        "title": "HUMBLE.",
+        "artist": "Kendrick Lamar"
+      },
+      {
+        "title": "Infiel",
+        "artist": "Marília Mendonça"
+      },
+      {
+        "title": "Alright",
+        "artist": "Kendrick Lamar"
+      },
+      {
+        "title": "Without Me",
+        "artist": "Eminem"
+      },
+      {
+        "title": "Malvadão 3",
+        "artist": "Xamã"
+      },
+      {
+        "title": "Propaganda",
+        "artist": "Jorge & Mateus"
+      }
+    ]
+  },
+  {
+    "nickname": "flow_pesado",
+    "ranking": [
+      {
+        "title": "Negro Drama",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Aquarela",
+        "artist": "Toquinho"
+      },
+      {
+        "title": "Garota de Ipanema",
+        "artist": "Tom Jobim"
+      },
+      {
+        "title": "Diário de um Detento",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "In da Club",
+        "artist": "50 Cent"
+      },
+      {
+        "title": "HUMBLE.",
+        "artist": "Kendrick Lamar"
+      },
+      {
+        "title": "País Tropical",
+        "artist": "Jorge Ben Jor"
+      },
+      {
+        "title": "The Real Slim Shady",
+        "artist": "Eminem"
+      },
+      {
+        "title": "Levanta e Anda",
+        "artist": "Emicida"
+      },
+      {
+        "title": "Stronger",
+        "artist": "Kanye West"
+      }
+    ]
+  },
+  {
+    "nickname": "racionais_fan",
+    "ranking": [
+      {
+        "title": "AmarElo",
+        "artist": "Emicida"
+      },
+      {
+        "title": "Lose Yourself",
+        "artist": "Eminem"
+      },
+      {
+        "title": "Diário de um Detento",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Sucrilhos",
+        "artist": "Criolo"
+      },
+      {
+        "title": "N.Y. State of Mind",
+        "artist": "Nas"
+      },
+      {
+        "title": "Jesus Chorou",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Um Bom Lugar",
+        "artist": "Sabotage"
+      },
+      {
+        "title": "Malvadão 3",
+        "artist": "Xamã"
+      },
+      {
+        "title": "Ms. Jackson",
+        "artist": "OutKast"
+      },
+      {
+        "title": "Stan",
+        "artist": "Eminem"
+      }
+    ]
+  },
+  {
+    "nickname": "cypher_sp",
+    "ranking": [
+      {
+        "title": "Diário de um Detento",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Lose Yourself",
+        "artist": "Eminem"
+      },
+      {
+        "title": "Vida Loka, Pt. II",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "HUMBLE.",
+        "artist": "Kendrick Lamar"
+      },
+      {
+        "title": "In da Club",
+        "artist": "50 Cent"
+      },
+      {
+        "title": "California Love",
+        "artist": "2Pac"
+      },
+      {
+        "title": "Jesus Chorou",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Dançarina",
+        "artist": "Pedro Sampaio"
+      },
+      {
+        "title": "Changes",
+        "artist": "2Pac"
+      },
+      {
+        "title": "Alright",
+        "artist": "Kendrick Lamar"
+      }
+    ]
+  },
+  {
+    "nickname": "dj_noturno",
+    "ranking": [
+      {
+        "title": "Wake Me Up",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Levels",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Sandstorm",
+        "artist": "Darude"
+      },
+      {
+        "title": "Around the World",
+        "artist": "Daft Punk"
+      },
+      {
+        "title": "Lean On",
+        "artist": "Major Lazer"
+      },
+      {
+        "title": "Harder, Better, Faster, Stronger",
+        "artist": "Daft Punk"
+      },
+      {
+        "title": "The Nights",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Breathe",
+        "artist": "The Prodigy"
+      },
+      {
+        "title": "Block Rockin' Beats",
+        "artist": "The Chemical Brothers"
+      },
+      {
+        "title": "Hear Me Now",
+        "artist": "Alok"
+      }
+    ]
+  },
+  {
+    "nickname": "raver",
+    "ranking": [
+      {
+        "title": "Águas de Março",
+        "artist": "Elis Regina"
+      },
+      {
+        "title": "Titanium",
+        "artist": "David Guetta"
+      },
+      {
+        "title": "Levels",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Animals",
+        "artist": "Martin Garrix"
+      },
+      {
+        "title": "One More Time",
+        "artist": "Daft Punk"
+      },
+      {
+        "title": "Children",
+        "artist": "Robert Miles"
+      },
+      {
+        "title": "Midnight City",
+        "artist": "M83"
+      },
+      {
+        "title": "Desafinado",
+        "artist": "João Gilberto"
+      },
+      {
+        "title": "Cola",
+        "artist": "CamelPhat"
+      },
+      {
+        "title": "Wave",
+        "artist": "Tom Jobim"
+      }
+    ]
+  },
+  {
+    "nickname": "synth_wave",
+    "ranking": [
+      {
+        "title": "Wake Me Up",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Summer",
+        "artist": "Calvin Harris"
+      },
+      {
+        "title": "Get Lucky",
+        "artist": "Daft Punk"
+      },
+      {
+        "title": "Don't You Worry Child",
+        "artist": "Swedish House Mafia"
+      },
+      {
+        "title": "One More Time",
+        "artist": "Daft Punk"
+      },
+      {
+        "title": "Harder, Better, Faster, Stronger",
+        "artist": "Daft Punk"
+      },
+      {
+        "title": "Midnight City",
+        "artist": "M83"
+      },
+      {
+        "title": "Hear Me Now",
+        "artist": "Alok"
+      },
+      {
+        "title": "Children",
+        "artist": "Robert Miles"
+      },
+      {
+        "title": "Hey Brother",
+        "artist": "Avicii"
+      }
+    ]
+  },
+  {
+    "nickname": "bass_drop",
+    "ranking": [
+      {
+        "title": "Titanium",
+        "artist": "David Guetta"
+      },
+      {
+        "title": "Don't You Worry Child",
+        "artist": "Swedish House Mafia"
+      },
+      {
+        "title": "Sandstorm",
+        "artist": "Darude"
+      },
+      {
+        "title": "Children",
+        "artist": "Robert Miles"
+      },
+      {
+        "title": "Wake Me Up",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Lean On",
+        "artist": "Major Lazer"
+      },
+      {
+        "title": "Scary Monsters and Nice Sprites",
+        "artist": "Skrillex"
+      },
+      {
+        "title": "Breathe",
+        "artist": "The Prodigy"
+      },
+      {
+        "title": "Strobe",
+        "artist": "deadmau5"
+      },
+      {
+        "title": "Satisfaction",
+        "artist": "Benny Benassi"
+      }
+    ]
+  },
+  {
+    "nickname": "pista_cheia",
+    "ranking": [
+      {
+        "title": "Hotel California",
+        "artist": "Eagles"
+      },
+      {
+        "title": "One More Time",
+        "artist": "Daft Punk"
+      },
+      {
+        "title": "Titanium",
+        "artist": "David Guetta"
+      },
+      {
+        "title": "Wake Me Up",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Strobe",
+        "artist": "deadmau5"
+      },
+      {
+        "title": "Clarity",
+        "artist": "Zedd"
+      },
+      {
+        "title": "Get Lucky",
+        "artist": "Daft Punk"
+      },
+      {
+        "title": "November Rain",
+        "artist": "Guns N' Roses"
+      },
+      {
+        "title": "Right Here, Right Now",
+        "artist": "Fatboy Slim"
+      },
+      {
+        "title": "Sonífera Ilha",
+        "artist": "Titãs"
+      }
+    ]
+  },
+  {
+    "nickname": "house_lover",
+    "ranking": [
+      {
+        "title": "Levels",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Don't You Worry Child",
+        "artist": "Swedish House Mafia"
+      },
+      {
+        "title": "Hey Brother",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Get Lucky",
+        "artist": "Daft Punk"
+      },
+      {
+        "title": "Summer",
+        "artist": "Calvin Harris"
+      },
+      {
+        "title": "Clarity",
+        "artist": "Zedd"
+      },
+      {
+        "title": "Harder, Better, Faster, Stronger",
+        "artist": "Daft Punk"
+      },
+      {
+        "title": "Blue (Da Ba Dee)",
+        "artist": "Eiffel 65"
+      },
+      {
+        "title": "Right Here, Right Now",
+        "artist": "Fatboy Slim"
+      },
+      {
+        "title": "Where Are Ü Now",
+        "artist": "Jack Ü"
+      }
+    ]
+  },
+  {
+    "nickname": "techno_head",
+    "ranking": [
+      {
+        "title": "Construção",
+        "artist": "Chico Buarque"
+      },
+      {
+        "title": "Oceano",
+        "artist": "Djavan"
+      },
+      {
+        "title": "Wake Me Up",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Cálice",
+        "artist": "Chico Buarque"
+      },
+      {
+        "title": "Summer",
+        "artist": "Calvin Harris"
+      },
+      {
+        "title": "Titanium",
+        "artist": "David Guetta"
+      },
+      {
+        "title": "Scary Monsters and Nice Sprites",
+        "artist": "Skrillex"
+      },
+      {
+        "title": "The Nights",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Around the World",
+        "artist": "Daft Punk"
+      },
+      {
+        "title": "Cola",
+        "artist": "CamelPhat"
+      }
+    ]
+  },
+  {
+    "nickname": "jazzista",
+    "ranking": [
+      {
+        "title": "Summertime",
+        "artist": "Ella Fitzgerald"
+      },
+      {
+        "title": "Blue in Green",
+        "artist": "Miles Davis"
+      },
+      {
+        "title": "Diário de um Detento",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Giant Steps",
+        "artist": "John Coltrane"
+      },
+      {
+        "title": "Feeling Good",
+        "artist": "Nina Simone"
+      },
+      {
+        "title": "So What",
+        "artist": "Miles Davis"
+      },
+      {
+        "title": "Strange Fruit",
+        "artist": "Billie Holiday"
+      },
+      {
+        "title": "Cantaloupe Island",
+        "artist": "Herbie Hancock"
+      },
+      {
+        "title": "In a Sentimental Mood",
+        "artist": "Duke Ellington"
+      },
+      {
+        "title": "Mercy, Mercy, Mercy",
+        "artist": "Cannonball Adderley"
+      }
+    ]
+  },
+  {
+    "nickname": "sax_tenor",
+    "ranking": [
+      {
+        "title": "Take Five",
+        "artist": "Dave Brubeck"
+      },
+      {
+        "title": "Giant Steps",
+        "artist": "John Coltrane"
+      },
+      {
+        "title": "Strange Fruit",
+        "artist": "Billie Holiday"
+      },
+      {
+        "title": "Blue in Green",
+        "artist": "Miles Davis"
+      },
+      {
+        "title": "My Favorite Things",
+        "artist": "John Coltrane"
+      },
+      {
+        "title": "What a Wonderful World",
+        "artist": "Louis Armstrong"
+      },
+      {
+        "title": "Moanin'",
+        "artist": "Art Blakey"
+      },
+      {
+        "title": "So What",
+        "artist": "Miles Davis"
+      },
+      {
+        "title": "Corcovado",
+        "artist": "Stan Getz"
+      },
+      {
+        "title": "Pássaro de Fogo",
+        "artist": "Paula Fernandes"
+      }
+    ]
+  },
+  {
+    "nickname": "blue_note",
+    "ranking": [
+      {
+        "title": "Garota de Ipanema",
+        "artist": "Tom Jobim"
+      },
+      {
+        "title": "In a Sentimental Mood",
+        "artist": "Duke Ellington"
+      },
+      {
+        "title": "My Favorite Things",
+        "artist": "John Coltrane"
+      },
+      {
+        "title": "Take Five",
+        "artist": "Dave Brubeck"
+      },
+      {
+        "title": "So What",
+        "artist": "Miles Davis"
+      },
+      {
+        "title": "Feeling Good",
+        "artist": "Nina Simone"
+      },
+      {
+        "title": "Take the \"A\" Train",
+        "artist": "Duke Ellington"
+      },
+      {
+        "title": "Giant Steps",
+        "artist": "John Coltrane"
+      },
+      {
+        "title": "My Baby Just Cares for Me",
+        "artist": "Nina Simone"
+      },
+      {
+        "title": "Eu Sei Que Vou Te Amar",
+        "artist": "Tom Jobim"
+      }
+    ]
+  },
+  {
+    "nickname": "swing_time",
+    "ranking": [
+      {
+        "title": "Take Five",
+        "artist": "Dave Brubeck"
+      },
+      {
+        "title": "What a Wonderful World",
+        "artist": "Louis Armstrong"
+      },
+      {
+        "title": "Feeling Good",
+        "artist": "Nina Simone"
+      },
+      {
+        "title": "Blue in Green",
+        "artist": "Miles Davis"
+      },
+      {
+        "title": "Bumbum Granada",
+        "artist": "MC Zaac & Jerry"
+      },
+      {
+        "title": "So What",
+        "artist": "Miles Davis"
+      },
+      {
+        "title": "Cantaloupe Island",
+        "artist": "Herbie Hancock"
+      },
+      {
+        "title": "Take the \"A\" Train",
+        "artist": "Duke Ellington"
+      },
+      {
+        "title": "St. Thomas",
+        "artist": "Sonny Rollins"
+      },
+      {
+        "title": "Corcovado",
+        "artist": "Stan Getz"
+      }
+    ]
+  },
+  {
+    "nickname": "bebop_kid",
+    "ranking": [
+      {
+        "title": "Ai Se Eu Te Pego",
+        "artist": "Michel Teló"
+      },
+      {
+        "title": "Fui Fiel",
+        "artist": "Gusttavo Lima"
+      },
+      {
+        "title": "Feeling Good",
+        "artist": "Nina Simone"
+      },
+      {
+        "title": "Giant Steps",
+        "artist": "John Coltrane"
+      },
+      {
+        "title": "My Favorite Things",
+        "artist": "John Coltrane"
+      },
+      {
+        "title": "Blue in Green",
+        "artist": "Miles Davis"
+      },
+      {
+        "title": "Moanin'",
+        "artist": "Art Blakey"
+      },
+      {
+        "title": "Watermelon Man",
+        "artist": "Herbie Hancock"
+      },
+      {
+        "title": "Sorte que Cê Beija Bem",
+        "artist": "Maiara & Maraisa"
+      },
+      {
+        "title": "Peace Piece",
+        "artist": "Bill Evans"
+      }
+    ]
+  },
+  {
+    "nickname": "contrabaixo",
+    "ranking": [
+      {
+        "title": "Negro Drama",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Feeling Good",
+        "artist": "Nina Simone"
+      },
+      {
+        "title": "Take Five",
+        "artist": "Dave Brubeck"
+      },
+      {
+        "title": "Lose Yourself",
+        "artist": "Eminem"
+      },
+      {
+        "title": "The Girl from Ipanema",
+        "artist": "Stan Getz"
+      },
+      {
+        "title": "Round Midnight",
+        "artist": "Thelonious Monk"
+      },
+      {
+        "title": "Strange Fruit",
+        "artist": "Billie Holiday"
+      },
+      {
+        "title": "Dream a Little Dream of Me",
+        "artist": "Ella Fitzgerald"
+      },
+      {
+        "title": "Giant Steps",
+        "artist": "John Coltrane"
+      },
+      {
+        "title": "Blue Rondo à la Turk",
+        "artist": "Dave Brubeck"
+      }
+    ]
+  },
+  {
+    "nickname": "piano_bar",
+    "ranking": [
+      {
+        "title": "Feeling Good",
+        "artist": "Nina Simone"
+      },
+      {
+        "title": "So What",
+        "artist": "Miles Davis"
+      },
+      {
+        "title": "My Favorite Things",
+        "artist": "John Coltrane"
+      },
+      {
+        "title": "Drão",
+        "artist": "Gilberto Gil"
+      },
+      {
+        "title": "Round Midnight",
+        "artist": "Thelonious Monk"
+      },
+      {
+        "title": "What a Wonderful World",
+        "artist": "Louis Armstrong"
+      },
+      {
+        "title": "Roda Viva",
+        "artist": "Chico Buarque"
+      },
+      {
+        "title": "Aquarela",
+        "artist": "Toquinho"
+      },
+      {
+        "title": "Sing, Sing, Sing",
+        "artist": "Benny Goodman"
+      },
+      {
+        "title": "Better Git It in Your Soul",
+        "artist": "Charles Mingus"
+      }
+    ]
+  },
+  {
+    "nickname": "ecletico",
+    "ranking": [
+      {
+        "title": "Levels",
+        "artist": "Avicii"
+      },
+      {
+        "title": "Glamurosa",
+        "artist": "MC Marcinho"
+      },
+      {
+        "title": "Olha a Explosão",
+        "artist": "MC Kevinho"
+      },
+      {
+        "title": "Cheguei",
+        "artist": "Ludmilla"
+      },
+      {
+        "title": "Faded",
+        "artist": "Alan Walker"
+      },
+      {
+        "title": "Don't You Worry Child",
+        "artist": "Swedish House Mafia"
+      },
+      {
+        "title": "Tá Tranquilo, Tá Favorável",
+        "artist": "MC Bin Laden"
+      },
+      {
+        "title": "Verdinha",
+        "artist": "Ludmilla"
+      },
+      {
+        "title": "Right Here, Right Now",
+        "artist": "Fatboy Slim"
+      },
+      {
+        "title": "Breathe",
+        "artist": "The Prodigy"
+      }
+    ]
+  },
+  {
+    "nickname": "de_tudo_um_pouco",
+    "ranking": [
+      {
+        "title": "AmarElo",
+        "artist": "Emicida"
+      },
+      {
+        "title": "Juicy",
+        "artist": "The Notorious B.I.G."
+      },
+      {
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson"
+      },
+      {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson"
+      },
+      {
+        "title": "Hey Ya!",
+        "artist": "OutKast"
+      },
+      {
+        "title": "Da Ponte Pra Cá",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Firework",
+        "artist": "Katy Perry"
+      },
+      {
+        "title": "Someone Like You",
+        "artist": "Adele"
+      },
+      {
+        "title": "Mil Faces de um Homem Leal (Marighella)",
+        "artist": "Racionais MC's"
+      },
+      {
+        "title": "Vogue",
+        "artist": "Madonna"
+      }
+    ]
+  },
+  {
+    "nickname": "playlist_aleatoria",
+    "ranking": [
+      {
+        "title": "Round Midnight",
+        "artist": "Thelonious Monk"
+      },
+      {
+        "title": "Take the \"A\" Train",
+        "artist": "Duke Ellington"
+      },
+      {
+        "title": "Rave de Favela",
+        "artist": "MC Lan, Major Lazer & Anitta"
+      },
+      {
+        "title": "Cerol na Mão",
+        "artist": "Bonde do Tigrão"
+      },
+      {
+        "title": "Take Five",
+        "artist": "Dave Brubeck"
+      },
+      {
+        "title": "What a Wonderful World",
+        "artist": "Louis Armstrong"
+      },
+      {
+        "title": "Glamurosa",
+        "artist": "MC Marcinho"
+      },
+      {
+        "title": "Som de Preto",
+        "artist": "Amilcka & Chocolate"
+      },
+      {
+        "title": "Verdinha",
+        "artist": "Ludmilla"
+      },
+      {
+        "title": "Sing, Sing, Sing",
+        "artist": "Benny Goodman"
+      }
+    ]
+  },
+  {
+    "nickname": "curioso_musical",
+    "ranking": [
+      {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson"
+      },
+      {
+        "title": "Pense em Mim",
+        "artist": "Leandro & Leonardo"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "title": "Rolling in the Deep",
+        "artist": "Adele"
+      },
+      {
+        "title": "É o Amor",
+        "artist": "Zezé Di Camargo & Luciano"
+      },
+      {
+        "title": "Roar",
+        "artist": "Katy Perry"
+      },
+      {
+        "title": "10%",
+        "artist": "Maiara & Maraisa"
+      },
+      {
+        "title": "Arranhão",
+        "artist": "Henrique & Juliano"
+      },
+      {
+        "title": "Ciumeira",
+        "artist": "Marília Mendonça"
+      },
+      {
+        "title": "Diamonds",
+        "artist": "Rihanna"
+      }
+    ]
+  }
+]
