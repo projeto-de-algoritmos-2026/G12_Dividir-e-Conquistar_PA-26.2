@@ -1,3 +1,5 @@
+import type { TraceStep } from '../types'
+
 /**
  * Contagem de inversões por divisão e conquista (merge sort), O(n log n).
  *
@@ -54,4 +56,83 @@ function mergeAndCount(left: readonly number[], right: readonly number[]): Inver
   while (j < right.length) sorted[k++] = right[j++]!
 
   return { count, sorted }
+}
+
+// ---------------------------------------------------------------------------------------------
+// Versão rastreada, usada na tela de detalhe: mesma recursão e mesma mescla, mas registra cada
+// divisão e cada mescla (para a visualização passo a passo) e os pares invertidos encontrados.
+// ---------------------------------------------------------------------------------------------
+
+export interface TracedInversionResult extends InversionResult {
+  /** Pares de ÍNDICES (i, j) do array original com i < j e arr[i] > arr[j]. */
+  pairs: Array<[number, number]>
+  steps: TraceStep[]
+}
+
+/** Elemento acompanhado do seu índice no array original, para reconstruir os pares. */
+interface Item {
+  value: number
+  index: number
+}
+
+export function countInversionsTraced(arr: readonly number[]): TracedInversionResult {
+  const pairs: Array<[number, number]> = []
+  const steps: TraceStep[] = []
+  const values = (items: readonly Item[]) => items.map((x) => x.value)
+
+  function sortAndCount(items: Item[], start: number, depth: number): { count: number; sorted: Item[] } {
+    if (items.length <= 1) return { count: 0, sorted: items }
+
+    const mid = items.length >> 1
+    const leftPart = items.slice(0, mid)
+    const rightPart = items.slice(mid)
+    steps.push({
+      kind: 'divide',
+      depth,
+      range: [start, start + items.length],
+      left: values(leftPart),
+      right: values(rightPart),
+      splitCount: 0,
+    })
+
+    const left = sortAndCount(leftPart, start, depth + 1)
+    const right = sortAndCount(rightPart, start + mid, depth + 1)
+
+    // mescla igual à de countInversions, anotando os pares
+    const L = left.sorted
+    const R = right.sorted
+    const sorted: Item[] = []
+    let i = 0
+    let j = 0
+    let splitCount = 0
+    while (i < L.length && j < R.length) {
+      if (L[i]!.value > R[j]!.value) {
+        splitCount += L.length - i
+        // R[j] forma uma inversão com cada elemento que ainda resta na esquerda
+        for (let r = i; r < L.length; r++) pairs.push([L[r]!.index, R[j]!.index])
+        sorted.push(R[j++]!)
+      } else {
+        sorted.push(L[i++]!)
+      }
+    }
+    while (i < L.length) sorted.push(L[i++]!)
+    while (j < R.length) sorted.push(R[j++]!)
+
+    steps.push({
+      kind: 'merge',
+      depth,
+      range: [start, start + items.length],
+      left: values(L),
+      right: values(R),
+      merged: values(sorted),
+      splitCount,
+    })
+
+    return { count: left.count + right.count + splitCount, sorted }
+  }
+
+  const { count, sorted } = sortAndCount(arr.map((value, index) => ({ value, index })), 0, 0)
+  // ordena os pares por (i, j) para exibição estável
+  pairs.sort((a, b) => a[0] - b[0] || a[1] - b[1])
+  return { count, sorted: values(sorted), pairs, steps }
 }
