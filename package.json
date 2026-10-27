@@ -7,7 +7,8 @@
     "build": "nuxt build",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "seed:stress": "tsx server/seed/stress.ts"
+    "seed:stress": "tsx server/seed/stress.ts",
+    "typecheck": "nuxt typecheck"
   },
   "dependencies": {
     "@iconify-json/lucide": "^1.2.150",
@@ -22,7 +23,9 @@
   },
   "devDependencies": {
     "@types/better-sqlite3": "^9.6.0",
-    "tsx": "^4.23.15"
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3",
+    "vue-tsc": "^3.3.14"
   },
   "allowScripts": {
     "better-sqlite3@13.0.3": true,
