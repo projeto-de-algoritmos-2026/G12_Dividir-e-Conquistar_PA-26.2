@@ -87,3 +87,44 @@ export interface CompareDetail {
   invertedPairs: InvertedPair[]
   steps: TraceStep[]
 }
+
+// --- Aba "Pessoas" -----------------------------------------------------------------------
+
+export interface PersonListItem {
+  nickname: string
+  isSample: boolean
+  isMe: boolean
+  /** Música na 1ª posição do ranking. */
+  favorite: Song
+}
+
+export interface PeopleResponse {
+  items: PersonListItem[]
+  page: number
+  pageSize: number
+  pageCount: number
+  total: number
+}
+
+export interface PersonRankingEntry {
+  position: number
+  song: Song
+  /** Posição da música no ranking de quem está vendo, ou null se não estiver lá. */
+  myPosition: number | null
+}
+
+export interface PersonComparison {
+  commonCount: number
+  comparable: boolean
+  similarity: number
+  inversions: number
+  maxInversions: number
+}
+
+export interface PersonDetail {
+  person: { nickname: string; isSample: boolean; isMe: boolean }
+  ranking: PersonRankingEntry[]
+  viewerHasRanking: boolean
+  /** null quando é o próprio perfil ou quem vê ainda não tem ranking. */
+  comparison: PersonComparison | null
+}

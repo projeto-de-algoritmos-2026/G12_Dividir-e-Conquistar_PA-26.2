@@ -6,6 +6,7 @@ const links = [
   { label: 'Ranking', to: '/ranking', icon: 'i-lucide-list-ordered' },
   { label: 'Semelhantes', to: '/semelhantes', icon: 'i-lucide-users' },
   { label: 'Recomendações', to: '/recomendacoes', icon: 'i-lucide-sparkles' },
+  { label: 'Pessoas', to: '/pessoas', icon: 'i-lucide-contact' },
 ]
 
 async function sair() {
