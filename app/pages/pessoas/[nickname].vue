@@ -56,11 +56,55 @@ function voltar() {
         :actions="[{ label: 'Editar ranking', to: '/ranking' }]"
       />
 
+      <UAlert
+        v-else-if="!data.viewerHasRanking"
+        color="info"
+        variant="soft"
+        icon="i-lucide-list-ordered"
+        title="Monte seu ranking para ver o que vocês têm em comum"
+        :actions="[{ label: 'Montar ranking', to: '/ranking' }]"
+      />
+
+      <div
+        v-else-if="data.comparison?.comparable"
+        class="rounded-lg border border-default p-4 flex flex-wrap items-center gap-3"
+      >
+        <SimilarityBadge :similarity="data.comparison.similarity" size="lg" />
+        <p class="text-sm flex-1 min-w-48">
+          {{ data.comparison.inversions }}
+          {{ data.comparison.inversions === 1 ? 'inversão' : 'inversões' }} de
+          {{ data.comparison.maxInversions }} pares ·
+          {{ data.comparison.commonCount }} músicas em comum
+        </p>
+        <UButton
+          :to="`/comparar/${encodeURIComponent(data.person.nickname)}`"
+          trailing-icon="i-lucide-arrow-right"
+          size="sm"
+          variant="soft"
+        >
+          Ver comparação detalhada
+        </UButton>
+      </div>
+
+      <UAlert
+        v-else-if="data.comparison"
+        color="neutral"
+        variant="soft"
+        icon="i-lucide-info"
+        title="Vocês têm menos de 3 músicas em comum"
+        :description="
+          data.comparison.commonCount === 0
+            ? 'Nenhuma música do seu ranking está no ranking dessa pessoa.'
+            : `${data.comparison.commonCount} ${data.comparison.commonCount === 1 ? 'música' : 'músicas'} em comum (destacadas abaixo).`
+        "
+      />
+
       <ol class="space-y-2">
         <li
           v-for="entry in data.ranking"
           :key="entry.song.id"
-          class="flex items-center gap-3 rounded-lg border border-default px-3 py-2"
+          class="flex items-center gap-3 rounded-lg border px-3 py-2"
+          :class="entry.myPosition !== null ? 'border-primary bg-primary/5' : 'border-default'"
         >
           <span
             class="size-8 shrink-0 rounded-full grid place-items-center text-sm font-bold"
@@ -72,6 +116,9 @@ function voltar() {
             <p class="font-medium truncate">{{ entry.song.title }}</p>
             <p class="text-sm text-muted truncate">{{ entry.song.artist }} · {{ entry.song.genre }}</p>
           </div>
+          <UBadge v-if="entry.myPosition !== null" color="primary" variant="soft" class="shrink-0 tabular-nums">
+            você: {{ entry.myPosition }}º
+          </UBadge>
         </li>
       </ol>
     </template>

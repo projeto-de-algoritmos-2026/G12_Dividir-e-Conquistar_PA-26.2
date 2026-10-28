@@ -35,6 +35,8 @@ Outros scripts:
 | `/semelhantes` | perfis com pelo menos 3 músicas em comum, do mais para o menos parecido |
 | `/recomendacoes` | até 10 músicas vindas das 5 pessoas mais parecidas |
 | `/comparar/<apelido>` | músicas em comum, pares invertidos e o merge sort passo a passo |
+| `/pessoas` | todas as pessoas com ranking, com busca por apelido |
+| `/pessoas/<apelido>` | o ranking de uma pessoa, com as músicas em comum e a semelhança com você |
 
 ## O algoritmo
 
