@@ -38,6 +38,10 @@ Outros scripts:
 | `/pessoas` | todas as pessoas com ranking, com busca por apelido |
 | `/pessoas/<apelido>` | o ranking de uma pessoa, com as músicas em comum e a semelhança com você |
 
+## Vídeo
+
+[Link do YouTube](https://youtu.be/AZWsZujqPdA)
+
 ## O algoritmo
 
 ### Inversões
